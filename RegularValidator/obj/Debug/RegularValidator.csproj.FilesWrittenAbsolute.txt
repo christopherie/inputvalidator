@@ -1,0 +1,5 @@
+/home/predator/CSharpProjects/RegularValidator/RegularValidator/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/predator/CSharpProjects/RegularValidator/RegularValidator/bin/Debug/RegularValidator.dll.mdb
+/home/predator/CSharpProjects/RegularValidator/RegularValidator/bin/Debug/RegularValidator.dll
+/home/predator/CSharpProjects/RegularValidator/RegularValidator/obj/Debug/RegularValidator.dll
+/home/predator/CSharpProjects/RegularValidator/RegularValidator/obj/Debug/RegularValidator.dll.mdb

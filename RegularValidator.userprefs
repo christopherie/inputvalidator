@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="RunValidations/RunValidations.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RegularValidator/InputValidator.cs">
+    <Files>
+      <File FileName="RunValidations/Harness.cs" Line="29" Column="58" />
+      <File FileName="RegularValidator/InputValidator.cs" Line="43" Column="17" />
+      <File FileName="Regex Toolkit" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="RegularValidator" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
