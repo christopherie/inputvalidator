@@ -1,7 +1,0 @@
-/home/predator/CSharpProjects/RegularValidator/RunValidations/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/home/predator/CSharpProjects/RegularValidator/RunValidations/bin/Debug/RunValidations.exe.mdb
-/home/predator/CSharpProjects/RegularValidator/RunValidations/bin/Debug/RunValidations.exe
-/home/predator/CSharpProjects/RegularValidator/RunValidations/obj/Debug/RunValidations.exe
-/home/predator/CSharpProjects/RegularValidator/RunValidations/obj/Debug/RunValidations.exe.mdb
-/home/predator/CSharpProjects/RegularValidator/RunValidations/bin/Debug/RegularValidator.dll
-/home/predator/CSharpProjects/RegularValidator/RunValidations/bin/Debug/RegularValidator.dll.mdb
