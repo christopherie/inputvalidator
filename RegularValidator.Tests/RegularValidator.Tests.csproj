@@ -53,12 +53,6 @@
     <Compile Include="UnitTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\RegularValidator\RegularValidator.csproj">
-      <Project>{65f42e47-0dfd-4f8e-90a1-9be6e441ee0f}</Project>
-      <Name>RegularValidator</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>
